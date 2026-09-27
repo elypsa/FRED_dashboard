@@ -1,6 +1,6 @@
 # FRED Economic Dashboard
 
-An interactive Shiny dashboard for visualizing Federal Reserve Economic Data (FRED) with an AI-powered chat assistant.
+A prototype of an interactive Shiny dashboard for visualizing Federal Reserve Economic Data (FRED) with an AI-powered chat assistant.
 
 ## Live App
 
