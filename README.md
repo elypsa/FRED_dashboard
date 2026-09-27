@@ -4,7 +4,7 @@ A prototype of an interactive Shiny dashboard for visualizing Federal Reserve Ec
 
 ## Live App
 
-🚀 **[View Dashboard](https://szabomilan.shinyapps.io/fred-dashboard/)**
+🚀 **[View Dashboard](https://szabomilan.shinyapps.io/fred-dashboard/)** (pswd is my name or just look into @app.R)
 
 ## Features
 
