@@ -1,0 +1,14 @@
+.Renviron
+.env
+.Rprofile
+.claude/
+.shinychat/
+renv/
+renv.lock
+R/fred_fetch.R
+R/ellmer_test.R
+*.rds
+*.RDS
+.git/
+.gitignore
+README.md

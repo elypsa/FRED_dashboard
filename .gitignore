@@ -1,0 +1,54 @@
+# renv - exclude installed packages but keep configuration
+
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+.Renviron
+.Rprofile
+.env
+
+# Claude Code directories
+.claude/
+claude/
+CLAUDE_files/
+  
+
+# R and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user
+
+# Generated HTML outputs
+*.html
+*_files/
+
+# Generated PNG outputs
+*.png
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.httr-oauth
+
+# API Configuration (contains secrets - deploy to shinyapps but not git)
+config.R
+
+# R package development
+*.tar.gz
+*.Rcheck/
